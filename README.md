@@ -2,6 +2,10 @@
 
 Sentiment Analyzer with Next.js, but gives cheerful messages based on emotion :D
 
+![Preview](https://cloud-5ajbsz6jj-hack-club-bot.vercel.app/0image.png)
+
+
+
 ## Setup Instructions
 
 1. Clone the repository
