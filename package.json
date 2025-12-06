@@ -14,7 +14,7 @@
     "@tensorflow/tfjs-node": "^4.22.0",
     "framer-motion": "^11.13.5",
     "lucide-react": "^0.468.0",
-    "next": "15.0.4",
+    "next": "16.0.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sentiment": "^5.0.2"
