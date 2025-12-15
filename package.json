@@ -20,7 +20,7 @@
     "sentiment": "^5.0.2"
   },
   "devDependencies": {
-    "@types/node": "^24",
+    "@types/node": "^25",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@types/sentiment": "^5.0.4",
